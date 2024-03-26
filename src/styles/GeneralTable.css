@@ -1,0 +1,10 @@
+th:hover select {
+  display: block;
+}
+th:hover input {
+  display: block;
+}
+
+th:hover button {
+  display: block;
+}
