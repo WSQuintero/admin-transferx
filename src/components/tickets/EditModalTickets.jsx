@@ -3,8 +3,8 @@ import PopUp from "../PopUp"
 import ConfirmationModal from "../ConfirmationModal"
 import { formatDate } from "../../utils/Utils"
 import { MyContext } from "../../context/context"
-import Messages from "../messages"
 import clsx from "clsx"
+import Messages from "../Messages"
 
 function EditModalTickets({
   openModal,
