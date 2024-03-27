@@ -192,7 +192,7 @@ function SarlaftModal({
   return (
     <div className="w-full h-full bg-black z-50 overflow-auto p-5 absolute top-0">
       <div className="w-full bg-black flex justify-center items-center">
-        <img src="/src/images/completesize.png" alt="logo" />
+        <img src="../images/completesize.png" alt="logo" />
       </div>
       <button
         onClick={() => setOpenSarlaft(false)}

@@ -24,7 +24,7 @@ function Dashboard() {
         <main className="relative">
           <div className="w-full flex justify-center pl-10 items-center bg-black/80 dark:bg-white/5">
             <img
-              src="/src/images/completesize.png"
+              src="../images/completesize.png"
               alt="logo"
               className="max-w-[200px]"
             />
@@ -39,7 +39,7 @@ function Dashboard() {
                     Usuarios
                   </h3>
                   <img
-                    src="/src/images/user.png"
+                    src="../images/user.png"
                     alt="user"
                     className="w-[50%] object-contain opacity-80 mb-5"
                   />
@@ -51,7 +51,7 @@ function Dashboard() {
                     Tickets
                   </h3>
                   <img
-                    src="/src/images/ticket.png"
+                    src="../images/ticket.png"
                     alt="user"
                     className="w-[50%] mb-5 object-contain opacity-80 "
                   />
@@ -65,7 +65,7 @@ function Dashboard() {
                 Sarlaft
               </h3>
               <img
-                src="/src/images/orders.png"
+                src="../images/orders.png"
                 alt="user"
                 className="w-[50%] object-contain mb-7 opacity-80"
               />
@@ -77,7 +77,7 @@ function Dashboard() {
                 Transacciones
               </h3>
               <img
-                src="/src/images/transaction.png"
+                src="../images/transaction.png"
                 alt="user"
                 className="w-[50%] object-contain mb-12 opacity-80"
               />
@@ -86,7 +86,7 @@ function Dashboard() {
         </main>
       </div>
       <img
-        src="/src/images/Polygon 3.png"
+        src="../images/Polygon 3.png"
         alt="shadow"
         className="absolute bottom-0 right-0"
       />

@@ -84,14 +84,14 @@ function Login() {
   return (
     <section className="relative flex flex-wrap lg:h-screen lg:items-center bg-black h-[100vh] overflow-hidden justify-center items-center">
       <img
-        src="/src/images/Polygon 2.png"
+        src="../images/Polygon 2.png ../"
         alt="shadow"
         className="absolute top-0 left-0 z-0"
       />
       <div className="w-full px-4 py-12 sm:px-6 sm:py-16 lg:w-1/2 lg:px-8 lg:py-24 h-full border border-[#C3F53C] z-50 flex flex-col items-center justify-center">
         <div className="mx-auto max-w-lg text-center">
           <img
-            src="/src/images/completesize.png"
+            src="../images/completesize.png"
             alt="logo"
             className="o object-contain "
           />
@@ -133,7 +133,7 @@ function Login() {
         </form>
       </div>
       <img
-        src="/src/images/Polygon 3.png"
+        src="../images/Polygon 3.png"
         alt="shadow"
         className="absolute bottom-0 right-0 z-0"
       />
