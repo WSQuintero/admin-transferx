@@ -112,13 +112,13 @@ function SignUp() {
     <section className="relative flex flex-wrap lg:h-screen lg:items-center bg-black h-[100vh] overflow-hidden">
       <div className="relative h-64 w-full sm:h-96 lg:h-full lg:w-1/2 overflow-hidden flex justify-center items-center">
         <img
-          src="../images/Polygon 2.png"
+          src="/images/Polygon 2.png"
           alt="shadow"
           className="absolute top-0 left-0 z-0"
         />
         <img
           alt=""
-          src="../images/completesize.png"
+          src="/images/completesize.png"
           className=" inset-0 h-full w-full object-contain max-w-[400px]"
         />
       </div>
@@ -188,7 +188,7 @@ function SignUp() {
         </form>
       </div>
       <img
-        src="../images/Polygon 3.png"
+        src="/images/Polygon 3.png"
         alt="shadow"
         className="absolute bottom-0 right-0 z-0"
       />

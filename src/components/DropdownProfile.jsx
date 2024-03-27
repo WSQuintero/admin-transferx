@@ -2,7 +2,7 @@ import React, { useState, useRef, useEffect, useContext } from "react"
 import { Link, useNavigate } from "react-router-dom"
 import Transition from "../utils/Transition"
 
-import UserAvatar from "../images/user-36-02.jpg"
+import UserAvatar from "/images/user-36-02.jpg"
 import { MyContext } from "../context/context"
 
 function DropdownProfile({ align, user }) {

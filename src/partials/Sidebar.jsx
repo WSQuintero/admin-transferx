@@ -74,7 +74,7 @@ function Sidebar({ sidebarOpen, setSidebarOpen }) {
           sidebarOpen ? "translate-x-0" : "-translate-x-64"
         }`}>
         <img
-          src="../images/squad.png"
+          src="/images/squad.png"
           alt="squad"
           className="absolute top-0 right-0 object-contain cursor-pointer"
           onClick={() => navigate("/")}
@@ -96,7 +96,7 @@ function Sidebar({ sidebarOpen, setSidebarOpen }) {
           </button>
           <NavLink end to="/" className="w-full flex justify-center">
             <img
-              src="../images/favicon.png"
+              src="/images/favicon.png"
               alt="favicon"
               className="hidden sm:block"
             />
